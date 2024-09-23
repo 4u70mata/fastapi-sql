@@ -1,0 +1,2 @@
+fastapi[all]
+sqlalchemy==1.4.49
